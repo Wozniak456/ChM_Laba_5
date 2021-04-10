@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChM_Laba_5", "ChM_Laba_5\ChM_Laba_5.csproj", "{262F1EFC-6E21-4293-83EC-3220C673EA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChM5_Library", "ChM5_Library\ChM5_Library.csproj", "{40518963-D45D-43A1-BFEC-24AF7642502F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262F1EFC-6E21-4293-83EC-3220C673EA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262F1EFC-6E21-4293-83EC-3220C673EA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262F1EFC-6E21-4293-83EC-3220C673EA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262F1EFC-6E21-4293-83EC-3220C673EA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40518963-D45D-43A1-BFEC-24AF7642502F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40518963-D45D-43A1-BFEC-24AF7642502F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40518963-D45D-43A1-BFEC-24AF7642502F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40518963-D45D-43A1-BFEC-24AF7642502F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6CAD3E4-E1C1-42CA-93D0-CE1A24169ECF}
+	EndGlobalSection
+EndGlobal
